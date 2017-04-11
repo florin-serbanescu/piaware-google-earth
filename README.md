@@ -89,7 +89,7 @@ Therefore edit this function and for example put an extra link:
 
 
 
-###Link Google Earth
+### Link Google Earth
 
 In order to display the result you will have to add a Link to Google Earth. Right-click in the Temporary Places are and select Add->Network Link.
 Enter URL - your Raspberry Pi IP port 8088 so that will point to Java server. Use also in Refresh tab Time Based refresh and select Periodically, every 2 seconds. Please make sure that Fly to View on Refresh checkbox is checked so that will auto-update your view.
